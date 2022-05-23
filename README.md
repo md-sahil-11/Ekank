@@ -1,5 +1,5 @@
 # Ekank
-###### It is an emulation of Tata Steel Sale Status management system.
+###### It is an emulation of Employees leave management system.
 
 ## Technology Stack:
 ### Backend
